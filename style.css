@@ -1,5 +1,6 @@
 * {
     margin: 0;
+<<<<<<< HEAD
     padding: 0;
     box-sizing: border-box;
 }
@@ -36,4 +37,7 @@ body {
         padding: 10px;
         width: 90%;
     }
+=======
+    background: white
+>>>>>>> styling
 }

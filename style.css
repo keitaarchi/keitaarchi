@@ -8,7 +8,7 @@ body {
     text-align: center;
     font-family: Arial, sans-serif;
     background-image: url('images/web1.jpg');
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     background-color: white;
